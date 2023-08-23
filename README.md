@@ -1,2 +1,4 @@
-# AMS-Project
- Attendance management system-Project 
+# SAMS-Project
+Student Attendance management system-Project 
+
+Student attendance management system using smart cards is intended to modernise the attendance monitoring process in the university. This is done by utilising the use of NFC technology, a web app that offers an uninterrupted and easy method for students to register their attendance. The student taps their NFC-compatible identification cards on the assigned NFC readers, attendance data such as time they entered class (clock-in) and the last time they leave (clock-out) is then recorded. This method eliminates the idea of manual sign-in sheets or the hustle of Lecturers calling out names of students in class. By augmenting accuracy, and user-friendliness, the system which is going to be a web app  optimises the attendance tracking process, allowing the university to prioritise the cultivation of student engagement and the improvement of overall academic performance. 
